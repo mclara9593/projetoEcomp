@@ -1,0 +1,120 @@
+
+
+b. Cadastro de Usuários: Permitir que novos usuários se cadastrem
+na plataforma.
+
+c. Login de Usuários: Implementar um sistema de login para que os
+usuários possam acessar suas tarefas.
+
+d. Adição e Exclusão de Tarefas: Permitir que usuários adicionem
+novas tarefas e excluam tarefas existentes.
+
+e. Sistema de Cadastro e Login para Administradores:
+Implementar uma funcionalidade de cadastro e login para
+administradores, permitindo o acesso ao gerenciamento de
+usuários.
+
+f. Gerenciamento de Usuários pelo Administrador: Permitir que
+administradores adicionem e removam usuários da plataforma.
+
+g. Diagrama de Casos de Uso: O diagrama deve ilustrar as
+interações entre os atores (usuários e administradores) e o sistema,
+mapeando todas as funcionalidades e os respectivos casos de uso.
+h. Diagrama de Classes: O diagrama de classes deve representar a
+estrutura do sistema, detalhando as classes principais, atributos,
+métodos e as relações entre elas, como herança, associação e
+agregação.
+
+3. Diferenciais
+a. Responsividade:
+Garantir que a landing page seja responsiva e se adapte a diferentes
+dispositivos, como desktops, tablets e smartphones.
+b. Commits Padronizados no GitHub:
+Utilizar uma convenção de commits padronizada no GitHub, como
+o uso de mensagens descritivas e significativas para cada commit,
+facilitando a compreensão e o acompanhamento do progresso do
+projeto. (Não sabe o que é?)
+c. Prototipação do Projeto:
+Criar um protótipo do sistema no Figma ou em outra ferramenta de
+prototipação para visualizar o design e a funcionalidade da landing
+page antes da implementação, proporcionando uma visão clara do
+projeto final.
+d. Segurança: Implementar medidas de segurança para proteger os
+dados dos usuários, como hash para guardar senhas.
+
+4. Produto
+Espera-se que o produto final seja uma aplicação de lista de tarefas
+intuitiva e eficiente, permitindo aos usuários gerenciar suas tarefas de forma
+prática e organizada. Além disso, deve proporcionar aos administradores a
+capacidade de gerenciar usuários, garantindo uma gestão eficaz da plataforma.
+5. Entrega
+O prazo para entrega do produto vai até o dia 23/09/2024, via e-mail
+contendo o link do repositório do projeto no github.
+EcompJr - Empresa Júnior de computação da Universidade Estadual de Feira de Santana. Rodovia BR
+
+7. Dinâmica do desafio
+Para o desafio, os participantes serão organizados em grupos de três pessoas (ou
+quatro, se houver participantes excedentes). Cada grupo deverá se coordenar
+para desenvolver a solução proposta. Recomendamos a seguinte divisão de
+tarefas:
+
+1. Front-end Developer: Responsável pelo desenvolvimento da interface
+do usuário usando React.js. Esta pessoa criará as páginas de cadastro,
+login, gerenciamento de tarefas e outras funcionalidades visuais da
+aplicação.
+
+2. Back-end Developer: Focado na construção da API com FastAPI e na
+integração com o banco de dados SQLite. Este membro implementará a
+lógica de negócios, autenticação de usuários e o gerenciamento das
+operações CRUD.
+
+Cadastro de Usuários
+Avalia a capacidade do sistema permitir o cadastro de novos usuários na plataforma.
+Login de Usuários
+Avalia a habilidade do sistema em autenticar usuários,
+ permitindo-lhes acesso às suas tarefas. 
+Adição e Exclusão de Tarefas
+
+Avalia a funcionalidade de adição e exclusão de tarefas pelos usuários. 
+
+Cadastro de Administradores
+
+Avalia a capacidade do sistema permitir o cadastro denovos administradores na plataforma.
+Login de Administradores
+Avalia a habilidade do sistema em autenticar administradores, permitindo-lhes gerenciar usuários. 
+Gerenciamento de Usuários
+Avalia a funcionalidade de gerenciamento de usuários pelos administradores. 
+Qualidade do Código
+Avalia a qualidade do código fonte (organização, clareza e boas práticas). 
+Criação deDiagrama deClasses
+Avalia se o diagrama de classes e de casos de uso criado
+satisfaz os requisitos propostos. 
+
+3. Documentação e Coordenação: Esta pessoa será responsável pela
+documentação do projeto, divisão das tarefas e o progresso de cada
+membro. Além disso, deverá ajudar nas outras áreas conforme o
+necessário.
+Recomendamos a utilização do sistema Kanban para organizar e acompanhar
+as tarefas de cada membro, facilitando a gestão do projeto e assegurando que
+todas as etapas sejam concluídas de forma eficiente e dentro do prazo.
+Vale destacar que, embora esta seja uma organização recomendada, todos os
+membros devem participar de todas as etapas. Ou seja, todos devem
+participar ativamente tanto do desenvolvimento quanto da organização do
+projeto.
+
+8. Dicas e Recomendações
+Sabemos que desenvolver uma aplicação fullstack é algo complexo e
+trabalhoso. Por isso, separamos algumas dicas e recomendações que podem
+ajudar a desenvolver o sistema.
+1. ViteJS: Vite é uma ferramenta moderna de construção para aplicações
+web que oferece um ambiente de desenvolvimento rápido e eficiente,
+com suporte para ReactJS.
+2. Dribbble: Precisa de ideias para o design? O Dribbble possui uma vasta
+gama de inspirações para de design e prototipação.
+3. SQLAlchemy: Utilize o SQLAlchemy com FastAPI para o
+gerenciamento do banco de dados SQLite. SQLAlchemy é uma biblioteca
+de ORM (Object-Relational Mapping) para Python que facilita a
+interação com o banco de dados.
+4. Figma: Use o Figma para prototipação e design de interfaces. O Figma é
+uma ferramenta de design colaborativo que permite criar protótipos
+interativos e layouts com facilidade.
